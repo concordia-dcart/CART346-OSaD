@@ -47,5 +47,5 @@ Once you have your five sounds, here's how to prepare and submit them:
 2. **Trim** the beginning and end of each sound: cut dead air and handling noise, keep the sound itself intact.
 3. **Export** each one individually as a `.wav` file at 44.1 kHz, 16-bit.
 4. **Rename** each exported file following the structure above (`C01-S01-filename.wav` through `C01-S05-filename.wav`), and add `_FAV` to your favorite.
-5. **Commit** the five files to your local repository, then **push** to GitHub.
+5. **Commit** the five files to your local repository, then **push** to GitHub. New to Git? Follow [GitHub's Getting Started with Git guide](https://docs.github.com/en/get-started/learning-to-code/getting-started-with-git): it covers exactly this workflow.
 6. **Verify**: reload your repository's page on GitHub and confirm all five files are there.
