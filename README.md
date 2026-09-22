@@ -48,4 +48,12 @@ Once you have your five sounds, here's how to prepare and submit them:
 3. **Export** each one individually as a `.wav` file at 44.1 kHz, 16-bit.
 4. **Rename** each exported file following the structure above (`C01-S01-filename.wav` through `C01-S05-filename.wav`), and add `_FAV` to your favorite.
 5. **Commit** the five files to your local repository, then **push** to GitHub. New to Git? Follow [GitHub's Getting Started with Git guide](https://docs.github.com/en/get-started/learning-to-code/getting-started-with-git): it covers exactly this workflow.
-6. **Verify**: reload your repository's page on GitHub and confirm all five files are there.
+6. **Verify**: reload your repository's page on GitHub and confirm all your files are there.
+
+
+7. If you get an error to "RPC failed; HTTP 400 curl 22 The requested URL returned error:400" or similar, you may want to increase the HTTP buffer. Run this in the VS Code terminal (or any terminal) inside the repo, then push again: 
+
+```
+git config http.postBuffer 524288000
+git push
+```
