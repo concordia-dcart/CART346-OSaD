@@ -32,7 +32,7 @@ let phasingPaused = false;
 let animFrame     = null;
 let startTime     = 0;
 
-let speedRatio = 1.002;
+let speedRatio = 1.01;
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // SAMPLE STATE
