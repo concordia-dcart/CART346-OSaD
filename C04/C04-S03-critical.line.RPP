@@ -1,0 +1,694 @@
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1791232932 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 7.18181818181818
+  ZOOM 22.32471579172519 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN C04-S03-critical.line
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {649B13BE-9EB0-674C-91AE-944004720127}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {076DC9FB-5430-6C40-BC03-020C72BFEA24}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {80400A3F-AE95-DB4D-B2E9-E5067B77BE74}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  <PROJBAY
+  >
+  <TRACK {438E6A80-695D-F046-832E-FAE7364B23A8}
+    NAME "New Recording 9"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {438E6A80-695D-F046-832E-FAE7364B23A8}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 6.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 3.22 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {17004BCD-7C3F-A64E-BED5-D3057300CDCF}
+      IID 369
+      NAME "New Recording 9.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32FC3ED6-B35A-AA46-8C7E-0A4FF427912B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 9.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 6.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3.22 1 1 0 0
+      FADEOUT 1.1 0 2.72 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC20B04B-C560-4A45-AC15-E0F10D123794}
+      IID 369
+      NAME "New Recording 9.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCE3DF9B-FCA6-6145-869B-4B5F45035B86}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 9.m4a"
+      >
+    >
+    <ITEM
+      POSITION 7.5
+      SNAPOFFS 0
+      LENGTH 6.72
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 2.72 1 1 0 0
+      FADEOUT 1.1 0 2.72 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F4F8DCB-6CE7-D648-A8ED-3ABC7BAD0FB7}
+      IID 369
+      NAME "New Recording 9.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C87A66C1-CF48-7547-9338-5E197CAAE583}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 9.m4a"
+      >
+    >
+    <ITEM
+      POSITION 11.5
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 2.72 1 1 0 0
+      FADEOUT 1.1 0 1.28 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {756E9E51-5920-1E4F-B6B1-3BFC4882D132}
+      IID 369
+      NAME "New Recording 9.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.72
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {34EDF5E8-A7A7-E94E-B462-CA746A08AEF1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 9.m4a"
+      >
+    >
+    <ITEM
+      POSITION 14.22
+      SNAPOFFS 0
+      LENGTH 1.78
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1.28 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBE4EF8D-1F0D-4842-80A8-A7826DB0FEC4}
+      IID 369
+      NAME "New Recording 9.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.44
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E3D40EF-83D1-7748-9410-A52C2BCAC793}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 9.m4a"
+      >
+    >
+  >
+  <TRACK {5DD35146-D592-BD47-B705-A02ABB7F661A}
+    NAME "New Recording 11"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5DD35146-D592-BD47-B705-A02ABB7F661A}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8358E7B2-DEC3-9C46-9267-F881A15B1240}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0B74CDFC-7306-D24D-B4B8-49A2D1B8B958}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 1.83866666666667 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {40D63FE5-CC5E-024D-B526-97D793E2B449}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6BD39224-3AC2-7749-AFC6-07E6BFF27131}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 3.5
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1.83866666666667 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC08B615-43C7-C946-9591-1AE8E57859C0}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {437CB4FD-89B9-C74D-AB0A-A7FAC9B8ECF6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4A6774A7-A731-4042-9566-29A1BF2FA3BD}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0EADA188-8DB0-FF46-B403-5A8D5F8C3CA6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 0.83866666666667 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3E685BCD-7551-DD44-9A74-C9FD2C940AB1}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {15FE388B-1C7C-644F-A821-B108C86D9BCC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 10.5
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.83866666666667 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E224DEEE-619C-5940-B9F4-13CC9495BAB7}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79FDDEEF-AE52-4143-804C-DE532EE68423}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 3.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0 1.83866666666667 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2224B972-7387-5F4C-9B3A-D520BC2EFAFD}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 12
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F019D4DB-4872-BD4D-9065-6FE8880F5E24}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 14.5
+      SNAPOFFS 0
+      LENGTH 2.33866666666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1.83866666666667 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0B096F7-47B0-B24D-A6B1-3C55C63B9D21}
+      IID 388
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C26890A2-EEB1-7746-9E99-CCA050C6B02F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+  >
+  <TRACK {B08BD1F7-220C-5F44-BF6C-86BCAE654752}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B08BD1F7-220C-5F44-BF6C-86BCAE654752}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3031B9F-82F3-4D47-BF04-0360DF9BBA25}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {498268FE-1682-7340-A2C5-3809F804A9D5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {01DFE683-5879-6147-B10C-7D41EFE17862}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A92B1221-5365-A548-847A-AC52A17F0300}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13020C44-953B-C84E-A2B3-E514F4BA52B8}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {45BAC704-1883-E941-B252-597F4D152B72}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 6
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1A3A1FE7-9B3F-DE4E-9212-91F913A37BA0}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {043A61C1-FCD4-FD43-8BC9-8A86FA2D7087}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 8
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1AD461C6-8828-3B47-898C-FE1062B0D54B}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8570F35C-A1D9-434D-BB63-086917E56F5F}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 10
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C97C81F-77A0-0243-AE5D-5DD1E579CC74}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C01821-AA17-7543-8FB1-EAF6CEAB040B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB7D1281-DB5C-4D4C-A8F5-B5552E028591}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {09F440EA-05EE-D442-AC00-30EDFD33C124}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 14
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F31E5991-73F7-F94B-A190-A8C2E81F7158}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37E10CB8-D121-CF4B-A701-E333204FC59C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF839502-A6BB-2B43-8D1C-1306DAB0431A}
+      IID 371
+      NAME "New Recording 11.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7111A50B-809A-3C49-87BC-339759CBE008}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "the.hospital/New Recording 11.m4a"
+      >
+    >
+  >
+>

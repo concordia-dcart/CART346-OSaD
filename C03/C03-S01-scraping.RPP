@@ -1,0 +1,380 @@
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790704441 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 18
+  ZOOM 4.66270487057462 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 4 0
+  SELECTION2 4 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 0.45309238622556 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {649B13BE-9EB0-674C-91AE-944004720127}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {076DC9FB-5430-6C40-BC03-020C72BFEA24}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {80400A3F-AE95-DB4D-B2E9-E5067B77BE74}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  MARKER 4 0 "" 0 0 1 B {69051029-AE3D-CE4F-801C-2E3C4F168EA1} 0 2
+  MARKER 3 58.95786828003046 "" 0 0 1 B {F8DDF29D-24E2-F645-9A95-D3AF06CDE988} 0 2
+  MARKER 2 67 "" 0 0 1 B {F8A5394F-9684-8647-8054-650553E5E242} 0 2
+  MARKER 1 68 "" 0 0 1 B {41710E38-CE38-EB45-9F30-CDDE5D42E9AB} 0 2
+  <PROJBAY
+  >
+  <TRACK {FD0562C0-D49E-4941-8912-ED657EA565D5}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.32971657736377 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 1
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FD0562C0-D49E-4941-8912-ED657EA565D5}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 52
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 19.23834582064308 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DFA6684-E16C-3641-9A64-E5839319FF6F}
+      IID 56
+      NAME "De L'Église.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52A47EFC-1CDF-9B4F-A1BA-898AC75A3D56}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église.m4a"
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25.544
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DC6F3CFB-D509-FE40-81FC-2345AA5074E9}
+      IID 54
+      NAME basic_pitch_transcription.mid
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A46F056A-77A8-5445-8332-E916F3527FC7}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {BA299A13-0647-BA41-93A3-EA7F30236FD8}
+        E 0 c0 04 00
+        E 925 90 1a 3c
+        E 401 90 21 29
+        E 145 80 21 00
+        E 826 90 21 28
+        E 167 80 21 00
+        E 156 90 21 2d
+        E 468 80 1a 00
+        E 401 80 21 00
+        E 12 90 21 32
+        E 0 90 1a 32
+        E 347 80 1a 00
+        E 356 80 21 00
+        E 156 90 23 4f
+        E 2576 80 23 00
+        E 167 90 1a 2f
+        E 12 90 21 2e
+        E 424 80 21 00
+        E 10 80 1a 00
+        E 191 90 1a 2b
+        E 279 80 1a 00
+        E 267 90 21 29
+        E 156 80 21 00
+        E 881 90 21 2a
+        E 224 80 21 00
+        E 356 90 21 33
+        E 90 90 1a 30
+        E 423 80 21 00
+        E 12 80 1a 00
+        E 412 90 21 2b
+        E 189 90 1a 32
+        E 223 80 21 00
+        E 536 90 21 34
+        E 346 80 1a 00
+        E 223 90 1a 30
+        E 122 80 21 00
+        E 11 90 21 38
+        E 391 80 1a 00
+        E 167 90 1a 33
+        E 155 80 21 00
+        E 1 90 21 3e
+        E 291 80 21 00
+        E 0 90 21 2f
+        E 145 90 29 2d
+        E 189 80 21 00
+        E 67 80 1a 00
+        E 123 80 29 00
+        E 11 90 29 42
+        E 0 90 1a 3d
+        E 11 90 21 31
+        E 22 90 1f 2a
+        E 101 80 29 00
+        E 0 90 29 34
+        E 646 80 1f 00
+        E 401 90 1f 33
+        E 626 80 21 00
+        E 11 90 21 3c
+        E 234 90 26 27
+        E 111 90 21 37
+        E 1 80 21 00
+        E 22 80 26 00
+        E 22 80 1a 00
+        E 546 90 26 2c
+        E 67 80 29 00
+        E 0 90 29 3f
+        E 44 90 2d 2d
+        E 90 80 29 00
+        E 0 90 29 32
+        E 10 80 21 00
+        E 1 90 21 43
+        E 44 90 1a 31
+        E 180 80 1a 00
+        E 11 80 21 00
+        E 0 90 21 3c
+        E 100 80 26 00
+        E 22 80 1f 00
+        E 45 90 1a 30
+        E 101 90 26 2f
+        E 10 80 2d 00
+        E 79 90 1d 31
+        E 100 80 26 00
+        E 67 90 2d 26
+        E 55 80 1a 00
+        E 79 80 2d 00
+        E 66 90 24 2e
+        E 78 90 29 37
+        E 1 80 29 00
+        E 55 80 24 00
+        E 101 80 1d 00
+        E 66 80 29 00
+        E 0 90 29 3e
+        E 67 90 1c 2a
+        E 56 80 21 00
+        E 0 90 21 36
+        E 55 80 29 00
+        E 1 90 29 36
+        E 66 80 1c 00
+        E 290 80 21 00
+        E 0 90 26 2a
+        E 0 90 21 3d
+        E 67 90 29 3c
+        E 1 80 29 00
+        E 99 80 26 00
+        E 380 80 21 00
+        E 146 90 21 27
+        E 22 90 1a 2e
+        E 33 80 29 00
+        E 0 90 29 52
+        E 134 80 21 00
+        E 11 80 29 00
+        E 0 90 29 4c
+        E 290 80 29 00
+        E 0 90 29 3f
+        E 45 90 21 2e
+        E 122 80 29 00
+        E 0 90 29 41
+        E 19 80 1a 2e
+        E 0 80 21 2e
+        E 0 80 29 41
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {097EC58E-C841-3A41-BAC3-64B8186FBBC4}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 0
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 6.456
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {943F189F-FFAB-9A47-8F8F-1FDD3815250C}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9CC55561-C540-6445-BE37-ED90DCE6E772}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/2329 Rue Dézéry 6.m4a"
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 23
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 7.47041354483923 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6A36A1BC-F7C8-8445-BE2D-0933D12EB93B}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 24.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {802F3919-DB52-1848-9EEC-A880FBC710D0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/2329 Rue Dézéry 6.m4a"
+      >
+    >
+    <ITEM
+      POSITION 136
+      SNAPOFFS 0
+      LENGTH 1.91200000000558
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6B6B4892-2689-D244-A314-07E721319FF1}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.54399999999441
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A4565F0-9F48-9C4D-A0EA-398D65019CF7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/2329 Rue Dézéry 6.m4a"
+      >
+    >
+  >
+>

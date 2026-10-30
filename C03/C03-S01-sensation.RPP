@@ -1,0 +1,1701 @@
+<REAPER_PROJECT 0.1 "7.80/macOS-arm64" 1790703878 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48 0
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 61
+  ZOOM 5.14182839386795 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 4 0
+  SELECTION2 4 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1.12168463191544 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_TRACKID {649B13BE-9EB0-674C-91AE-944004720127}
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {076DC9FB-5430-6C40-BC03-020C72BFEA24}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {80400A3F-AE95-DB4D-B2E9-E5067B77BE74}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1 0
+  RULERLANE 2 8 "" 0 -1 0
+  MARKER 4 0 "" 0 0 1 B {69051029-AE3D-CE4F-801C-2E3C4F168EA1} 0 2
+  MARKER 3 58.95786828003046 "" 0 0 1 B {F8DDF29D-24E2-F645-9A95-D3AF06CDE988} 0 2
+  MARKER 2 67 "" 0 0 1 B {F8A5394F-9684-8647-8054-650553E5E242} 0 2
+  MARKER 1 68 "" 0 0 1 B {41710E38-CE38-EB45-9F30-CDDE5D42E9AB} 0 2
+  <PROJBAY
+  >
+  <TRACK {8E7C1763-9AFB-644C-992A-9B2D86B09F4C}
+    NAME "2329 Rue Dézéry 6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.34483987755952 -0.136 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8E7C1763-9AFB-644C-992A-9B2D86B09F4C}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 60
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 25 3 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F16524FB-7D05-C846-AED1-12D4FC20A8DB}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED347F50-8795-E242-AFCA-502A9D1A7D68}
+      <SOURCE SECTION
+        LENGTH 60
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 49.0001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 25 2.0001 1 1 -0.395088 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1043DF88-5058-F341-9B01-7A3CAF9F8486}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 12.9999
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E54FF43-C122-114E-87EC-432CD4B249E2}
+      <SOURCE SECTION
+        LENGTH 49.0001
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 24.86812144919436 3 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28057077-ED75-3E43-89A8-5574F10964BE}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {74A4299E-7171-654C-9210-7A6469BC844C}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1DDFC24-C0F8-FF43-81F4-E12A12F8F1C8}
+      IID 58
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 67.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2FB18340-D065-334F-9E3C-D23D9510F481}
+      <SOURCE SECTION
+        LENGTH 2
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 2.85359172363267 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D049B2E-8F64-BC47-AD19-229CC23824D3}
+      IID 58
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 66.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {864A4AAD-729C-9E46-8B2E-857F145FF16B}
+      <SOURCE SECTION
+        LENGTH 3
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7.14640827636733
+      SNAPOFFS 0
+      LENGTH 27.85359172363267
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2.85359172363267 1 1 0 0
+      FADEOUT 1.1 0.01 13 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {371BEE9A-E420-0444-BE81-E86567F423AB}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.23630037872297
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {79D4D935-D2E0-6747-84DF-63B5B8D02BF1}
+      <SOURCE SECTION
+        LENGTH 27.85359172363267
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 1 0 0
+      FADEOUT 1.1 25 0.46447412952548 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BA44353-9117-3341-801B-8ED92835D2FA}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D4731DB-FD60-B04B-9474-3CC3EF0A20BD}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 14.64726291031866 0 1 0 0 0
+      FADEOUT 1.1 25 0.46447412952548 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2450B38E-5002-0F41-8629-4AAA07C6F9A1}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A2DFE9D3-D94A-724A-B458-836A7A1FB677}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 9 1 1 0 0
+      FADEOUT 1.1 25 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93E2A600-66D2-9445-8B91-F8C414383183}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4742A172-7361-414B-AB7F-BA3C2045DB76}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 9 1 1 0 0
+      FADEOUT 1.1 25 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FC31CB26-251A-7947-9138-4A8DA6EB13B2}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9A71205E-B3E0-8E4C-81C1-A1A3C455F221}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 14
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3 1 1 0 0
+      FADEOUT 1.1 25 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {44E5AABA-8783-AA42-A9F2-EF4B5E271569}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C38DD89-7E95-EB49-ABB5-2513A178B282}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 35
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5F3AF8E-5CAF-A04A-BD67-2E238388F98D}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BBD617A2-F3E9-5744-8900-EAC43687E939}
+      <SOURCE SECTION
+        LENGTH 16
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 36.53552587047452
+      SNAPOFFS 0
+      LENGTH 37.46447412952543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 13.46447412952544 1 1 -0.095088 0
+      FADEOUT 1.1 24 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9DB41150-50DA-8143-8D4E-232443C916B7}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4451DF09-0DEF-F74F-99A5-705BB8B3D998}
+      <SOURCE SECTION
+        LENGTH 37.46447412952543
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 19
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 4 1 1 0 0
+      FADEOUT 1.1 25 5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {540A12E8-C519-484D-8648-1425276D0E9F}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 17.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F6FB4288-D672-2F46-9246-512DA73BE194}
+      <SOURCE SECTION
+        LENGTH 19
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 37
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 4 1 1 0 0
+      FADEOUT 1.1 6 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD9DBF28-04B9-A740-855A-40551193AF16}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C784F941-C9F6-1E41-BF58-8E7BACDE4619}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 39
+      SNAPOFFS 0
+      LENGTH 13
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2 1 1 0 0
+      FADEOUT 1.1 37.28174413220604 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B472EEAC-E0E0-9A41-ADF4-0B2CC1B7120D}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6F6F6D4-D3F1-5642-A8F1-BA405BE92917}
+      <SOURCE SECTION
+        LENGTH 13
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 31
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 1.1 23 3 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75563B98-F8A8-7342-A755-1FEB70E6C0F7}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {704C7E6D-F978-084A-B0C0-BC94E4FDDD97}
+      <SOURCE SECTION
+        LENGTH 31
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 40
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 1.1 6 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B620AF5B-91E6-A04E-8D08-E98B4F15F7E2}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E062BEC4-2400-2B4B-B594-281B32C7A160}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 41
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 2 1 1 0 0
+      FADEOUT 1.1 25 4 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5952D6F9-EC6C-084A-97A1-E2CFBF430FDD}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 11.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFD7D76E-4368-AC4D-B901-A815A493E110}
+      <SOURCE SECTION
+        LENGTH 25
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 2 1 1 0 0
+      FADEOUT 1.1 6 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D1098EB7-5C6A-E34A-8F67-E06585AC0A2C}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB1E6F4-B095-BC42-AC75-AE2AA0FDCE11}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 47
+      SNAPOFFS 0
+      LENGTH 11
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 2.0001 1 1 0 0
+      FADEOUT 1.1 41 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F82E35C7-5BD5-DA46-9F3F-CAFC53B47C7F}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 8
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1BBCFC85-C7D8-F948-95BE-D138E44A0E1B}
+      <SOURCE SECTION
+        LENGTH 11
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 51
+      SNAPOFFS 0
+      LENGTH 16
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0 1 1 0 0
+      FADEOUT 1.1 25 5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {31297654-03C2-8749-B05E-734A97481D0B}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 20.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C1D7625-EDAB-5E49-B2EA-559E7EE5765B}
+      <SOURCE SECTION
+        LENGTH 16
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 51
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 1.1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {98B702EF-49E4-1040-BF02-6650DDF1A355}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BF6F941-D557-C848-87DF-A8739BC8DFAE}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CF764945-7B36-7341-84DD-F4DFB1EE621E}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.08799
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0F12876-1A1C-FC4D-B405-FB68ED08C09A}
+      <SOURCE SECTION
+        LENGTH 0.00001
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 57
+      SNAPOFFS 0
+      LENGTH 5.0001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 1 1 1 0 0
+      FADEOUT 1.1 6 0.0001 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C175E280-D446-C843-8405-E054726AD715}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.5439
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A9EFDE2-3A01-5D4E-8391-0CD34EB2073F}
+      <SOURCE SECTION
+        LENGTH 5.0001
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 62
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.0001 1 1 0 0
+      FADEOUT 1.1 6 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1DB4A7F-E6B0-BF4C-BA54-BF5AD7865500}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E40F1BCD-9FD4-E844-8399-1C8A806A9B23}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 68
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 3 1 1 0 0
+      FADEOUT 1.1 6 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C6B2F25-0D88-C141-B598-9BC5EEAB8A5D}
+      IID 53
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 30.544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {83C63756-3D77-284C-9D6C-8B7AD8C9EF25}
+      <SOURCE SECTION
+        LENGTH 6
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 80.99999
+      SNAPOFFS 0
+      LENGTH 0.00001
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00001 0 1 0 0 0
+      FADEOUT 1 0.00001 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD6EA53C-F77F-0147-8B6B-E5036AB5A2A0}
+      IID 74
+      NAME "2329 Rue Dézéry 6.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 22.088
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CF339D7-BD28-7442-94BE-82B6BB5DBFB8}
+      <SOURCE SECTION
+        LENGTH 0.00001
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/2329 Rue Dézéry 6.m4a"
+        >
+      >
+    >
+  >
+  <TRACK {B7977FA3-4C7A-A845-898A-63BE65E87F79}
+    NAME "De L'Église 2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.35148740112729 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B7977FA3-4C7A-A845-898A-63BE65E87F79}
+    PERF 0
+    MIDIOUT -1 -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB3CAA2B-B192-B04C-848A-28910D935E07}
+      IID 55
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C576210-3B8E-CB4B-A35C-FA299B6C8C79}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF744D2C-0982-314C-8042-B57C07CD4CE3}
+      IID 55
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 61.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B1A6718E-68F7-9A4B-A00A-4B0A9E8C403D}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 2
+      SNAPOFFS 0
+      LENGTH 7
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 6 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B483EE3A-35E3-1041-8865-DA434AC47476}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 78.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07917142-81EC-CF45-B807-B08FA983F460}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 3
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F1686C1-FA1F-124E-88E6-9987F29EC898}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DA5C191-9DB4-FF42-843F-09B57419FA9C}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 7
+      SNAPOFFS 0
+      LENGTH 7.99
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 1.99 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9170E020-FCBC-9046-AD9B-C07DDC90837E}
+      IID 58
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 64.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EA1D886-F3AF-AA46-A0A3-192A3CA30206}
+      <SOURCE SECTION
+        LENGTH 26
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64467928-B5CD-D342-B922-D0023A577CD5}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A7F1A50-D60F-BC4F-92F3-C3C05C056AED}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 9
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 5.99 1 1 0 0
+      FADEOUT 1.1 0.01 0.01 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {765A8FF1-9CA5-5741-8834-2F8F78226DAF}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E1E70FB-E1E2-F54B-95FC-054AC18618E6}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 13
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1326FE9D-5F58-3247-8BE0-509CF0C303A7}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {485995A2-2158-EE4C-9961-2A1EFC59203F}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 15
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 4 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF3621D6-0D28-4140-B056-5443A086B94F}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {06260868-D07E-C347-9397-01B1898CA90A}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3 1 1 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0137F9FE-EA69-8047-AF6C-2EABC0582F7C}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {269F0F0E-7717-8D43-9F41-628F5A17D172}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 18
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 3 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E621A961-7F90-F148-AA74-827B57A2FBD2}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC344C54-52DB-4647-8390-BD03D6002CE0}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BA2E4908-38AA-6D4C-98C5-218A0AC7A2E5}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A13628B-D5CA-DA4E-BA80-54737E7EAF8F}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9E7E586E-A9EA-564F-A986-36F56DC2D1AC}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C260097-AEA2-3F47-AFF3-4AE6A41AD1A7}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 21
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D67A30B7-AF42-FF4E-A637-08A4741E427F}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28910D10-192D-FC42-A7D7-CBE19C6C40C6}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2 1 1 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B57B63E-BD41-CB46-8CAA-6E9DE6AD939F}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52D3F02B-9916-3A41-A2F1-FD301532C325}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 4 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E44ADBF-311A-8244-A672-5531D41BD3B1}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BF333E0-6B12-7E4A-B14E-B817B1F67824}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 30
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E68081B4-08EA-7C40-A04B-184E86C20B2F}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99A5CF0C-28C2-7847-8C05-B27F4369F7F5}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 31
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2 1 1 0 0
+      FADEOUT 1.1 0.01 1 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB64D016-D56F-1548-9F89-749743AE6D4A}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9559A782-E4AD-6247-8D0D-0D599012B1F5}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 34
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2 1 1 0 0
+      FADEOUT 1.1 0.01 2 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {20CDF533-A285-9342-AA7F-C430149B6C6F}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {497C04B8-32A5-B54F-9BE1-A0F87FBDFFBA}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 1 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDF978B7-E6DF-F149-B5D8-16F8341E7503}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E70F1BD1-928F-EB4C-95E8-DC3994D662D6}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 38
+      SNAPOFFS 0
+      LENGTH 4
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 2 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3970C03-9A8D-3F4A-B41A-D6BFD1605876}
+      IID 900
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 79.824
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EB3BD522-B3C3-3C4D-98D3-BA52886F1193}
+      <SOURCE SECTION
+        LENGTH 24
+        MODE 3
+        STARTPOS 0
+        OVERLAP 0.01
+        <SOURCE VIDEO
+          FLIP 0 1
+          FILE "editNoise/De L'Église 2.m4a"
+        >
+      >
+    >
+    <ITEM
+      POSITION 42
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F77DD1E-734C-1D40-A2CB-6BA0D22DB046}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA7A1C2E-EA77-544C-9469-1099FDC9BEB1}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église 2.m4a"
+      >
+    >
+    <ITEM
+      POSITION 54
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19119EF1-9B55-BC43-8A3E-6418619AD97C}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90FA62E0-9FDE-B84F-BB50-828A27996C39}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église 2.m4a"
+      >
+    >
+    <ITEM
+      POSITION 57
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48C6C581-59EF-914E-9BCF-FBB216F2822D}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {022966FB-CB67-E544-A6FE-F471511F13F7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église 2.m4a"
+      >
+    >
+    <ITEM
+      POSITION 61
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C082069A-1440-4E40-A006-8FA95B7674BA}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5702BD6-102F-5943-930C-0C23D57F2490}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église 2.m4a"
+      >
+    >
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 3
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1BB3CAF3-CD7B-174D-B0B7-10D51425E16D}
+      IID 899
+      NAME "De L'Église 2.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7056001D-A562-CE4F-A802-28D0E0F40ADE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "editNoise/De L'Église 2.m4a"
+      >
+    >
+  >
+>
